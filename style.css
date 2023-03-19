@@ -1,0 +1,219 @@
+
+#logo img {
+    width: 19.6%;
+    float: left;
+    display: flex;
+}
+
+.topnav {
+    background-color: midnightblue;
+    overflow-x: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 100%;
+    max-height: 10%;
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2.5% 9.772%;
+    text-decoration: none;
+    font-size: 10px;
+    height: auto;
+    width: 5.45%;
+    max-height: fit-content;
+  }
+  .topnav a:hover {
+    background-color: dodgerblue;
+    color: black;
+  }
+
+
+header {
+  border-color: midnightblue;
+  display: static;
+  overflow: nowrap;
+  white-space: nowrap;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+
+#aanbiedingen {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightblue;
+  margin: auto;
+  float: left;
+  margin: 5%;
+  width: 100%;
+}
+
+#aanbiedingen img {
+  max-width: 20%;
+  max-height: 20%;
+  float: left;
+}
+#img1, #img2, #img3 {
+  margin: 5%;
+  border-radius: 5%;
+  border-color: black;
+  border-style: solid;
+  border-width: 1.5px;
+}
+body {
+  margin: 0;
+}
+
+
+  footer {
+    position: static;
+    display: static;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #000000;
+    height: 22%;
+    width: 100%;
+    padding-top: 1px;
+    color: #fff;
+    display: inline-block;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .footer-content p
+    {
+      max-width: 500px;
+      margin: 10px auto;
+      line-height: 28px;
+      font-size: 14px;
+      color: #cacdd2;
+  }
+
+.socials img {
+  width: 3%;
+  height: auto;
+  margin-right: 50px;
+}
+
+#scrollable {
+  overflow-y: auto;
+  background-color: lightblue;
+  overflow-x: hidden;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#populaireartikelen {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightblue;
+  margin: auto;
+  float: left;
+  margin: 1px;
+  display: grid;
+  align-items: right; 
+  column-gap: 50px;
+  display: flex;
+  max-width: 100%;
+}
+#populaireartikelen img {
+  max-width: 15%;
+  max-height: 25%;  
+  margin: 2.5%;
+  align-items: right; 
+  float: right;
+  justify-content: space-around ;
+}
+
+#img4, #img5, #img6, #img7, #img8, #img9, #img10 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5%;
+}
+#divider {
+  width: 100%, 100%, 100%, 100%;
+  background-color: lightblue;
+  max-height: 1%;
+  visibility: visible;
+  color: lightblue;
+  border-bottom: black;
+  border-left: lightblue;
+  border-right: lightblue;
+  border-style: solid;
+  border-top: lightblue;
+}
+
+.amdpcs {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightblue;;
+  margin: auto;
+  float: left;
+  margin: 3%;
+  overflow-x: hidden; 
+  background-color: lightblue;
+  max-width: 100%;
+}
+
+.amdpcs img {
+  max-width: 15%;
+  max-height: 20%;
+  margin: 3%;
+
+}
+
+#winkelwagen2 {
+  align-items: center;
+  max-width: 40%;
+  max-height: 40%;
+}
+
+#overonstekst {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  min-height: 100%;
+  
+}
+
+#winkelwagen {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#productimage {
+  margin: 5%;
+  border-radius: 5%;
+  border-color: black;
+  border-style: solid;
+  border-width: 1.5px;
+}
+
+#productimgdescription {
+  display: inline;
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightblue;
+  margin: auto;
+  float: left;
+  margin: 1px;
+  display: grid;
+  align-items: right; 
+  column-gap: 50px;
+  display: flex;
+  max-width: 100%;
+}
+#productimgdescription img {
+max-width: 40%;
+margin: 1.5%;
+align-items: right; 
+float: right;
+justify-content: space-around;
+}
+
+#img4, #img5, #img6 {
+  min-width: 80%;
+  min-height: 100%;
+  
+}
